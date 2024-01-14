@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white w-full">
+  <div class="bg-white w-[full]">
     <div class="mx-auto py-10 px-[60px] text-black">
       <div class="text-center">
         <div class="font-black text-[36px] uppercase tracking-[5px]">
