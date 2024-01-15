@@ -2,24 +2,24 @@
   <div class="bg-white w-[full]">
     <div class="mx-auto py-10 px-[60px] text-black">
       <div class="text-center">
-        <div class="font-black text-[36px] uppercase tracking-[5px]">
+        <div class="font-black text-[60px] uppercase tracking-[5px]">
           On Sale!
         </div>
-        <div class="font-bold text-[24px] uppercase tracking-[3px]">
+        <div class="font-bold text-[32px] uppercase tracking-[3px]">
           New Vehicles Listed for sale
         </div>
       </div>
-      <div class="grid grid-cols-3 gap-[50px] p-[30px] text-white">
-        <div class="card col-span-1 rounded-sm p-[10px] bg-[#333]">
+      <div class="grid grid-cols-3 gap-[50px] mt-[20px] p-[30px] text-white text-justify">
+        <div class="card col-span-1 rounded-sm p-[20px] bg-[#3C3744]">
           <img class="" src="../assets/cars/asset-1.jpg" alt="" />
-          <div class="flex flex-col py-3 px-2 leading-[20px]">
+          <div class="flex flex-col pt-3 px-2 leading-[20px]">
             <div class="font-bold py-2 text-[24px] tracking-[2px]">
               Jorj Wagon 2014
             </div>
             <div class="font-medium py-0 text-[24px] tracking-[2px]">
               $300,000
             </div>
-            <div class="mt-3 px-3 py-2 bg-white text-black rounded-lg">
+            <div class="mt-3 px-3 py-2 bg-white text-black rounded-sm">
               <div class="text-[16px] font-bold">Engine 2.4 Gasoline</div>
               <div class="text-[16px] font-bold">5-Seater</div>
               <div class="text-[16px] font-bold">28,000+ Miles</div>
@@ -34,16 +34,16 @@
           </div>
         </div>
 
-        <div class="card col-span-1 rounded-sm p-[10px] bg-[#333]">
+        <div class="card col-span-1 rounded-sm p-[20px] bg-[#3C3744]">
           <img class="" src="../assets/cars/asset-2.jpg" alt="" />
-          <div class="flex flex-col py-3 px-2 leading-[20px]">
+          <div class="flex flex-col pt-3 px-2 leading-[20px]">
             <div class="font-bold py-2 text-[24px] tracking-[2px]">
-              Jorj Wagon 2014
+              Jorj Mobil 2016
             </div>
             <div class="font-medium py-0 text-[24px] tracking-[2px]">
               $300,000
             </div>
-            <div class="mt-3 px-3 py-2 bg-white text-black rounded-lg">
+            <div class="mt-3 px-3 py-2 bg-white text-black rounded-sm">
               <div class="text-[16px] font-bold">Engine 2.4 Gasoline</div>
               <div class="text-[16px] font-bold">5-Seater</div>
               <div class="text-[16px] font-bold">28,000+ Miles</div>
@@ -58,16 +58,16 @@
           </div>
         </div>
 
-        <div class="card col-span-1 rounded-sm p-[10px] bg-[#333]">
+        <div class="card col-span-1 rounded-sm p-[20px] bg-[#3C3744]">
           <img class="" src="../assets/cars/asset-3.jpg" alt="" />
-          <div class="flex flex-col py-3 px-2 leading-[20px]">
+          <div class="flex flex-col pt-3 px-2 leading-[20px]">
             <div class="font-bold py-2 text-[24px] tracking-[2px]">
               Jorj Wagon 2014
             </div>
             <div class="font-medium py-0 text-[24px] tracking-[2px]">
               $300,000
             </div>
-            <div class="mt-3 px-3 py-2 bg-white text-black rounded-lg">
+            <div class="mt-3 px-3 py-2 bg-white text-black rounded-sm">
               <div class="text-[16px] font-bold">Engine 2.4 Gasoline</div>
               <div class="text-[16px] font-bold">5-Seater</div>
               <div class="text-[16px] font-bold">28,000+ Miles</div>
@@ -81,8 +81,11 @@
             </div>
           </div>
         </div>
+
+        
         
       </div>
+      <div class="text-[24px] text-[#3C3744] text-center mx-auto font-bold uppercase">Load More</div>
     </div>
   </div>
 </template>

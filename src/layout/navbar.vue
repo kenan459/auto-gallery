@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed h-[50px] w-full bg-[#810000] px-[100px] ">
+  <div class="fixed h-[50px] w-full bg-[#E85F5C] px-[100px] ">
     <nav class="flex h-full justify-between items-center text-white">
       Logo Here
         <ul class="flex gap-5">

@@ -1,21 +1,52 @@
 <template>
-  <div class="bg-[#f2f2f2] py-[65px]">
-    <div class="w-[1400px] mx-auto">
-      <div class="grid grid-cols-3 text-center">
-        <div class="col-span-1 border-r-[2px] border-[#BB0000]">
-          <div class="font-bold text-[72px] text-[#BB0000]">100%</div> 
-          <p class="px-[100px] text-[18px] font-medium text-[#a30000]">Complete trust in every deal. Your satisfaction first!</p>
+  <div class="bg-[#3C3744]">
+    <div class="w-[1400px] mx-auto p-[50px] text-white">
+      <div class="font-bold text-center text-[50px]">Our Services</div>
+
+      <div class="grid grid-cols-3 py-10">
+        <div class="col-span-1 text-center">
+          <img
+            class="w-[300px] rounded-md mx-auto border-[1px] border-black"
+            src="../assets/cars/asset-l1.jpg"
+            alt=""
+          />
+          <div class="font-bold text-[34px] pt-4">Car Selection</div>
+          <p class="px-[70px] py-2 text-[20px] font-medium">
+            Choose your perfect ride from family cars to sports cars!
+          </p>
         </div>
-        <div class="col-span-1 border-x-[2px] border-[#BB0000]">
-          <div class="font-bold text-[72px] text-[#BB0000]">500+</div> 
-          <p class="px-[100px] text-[18px] font-medium text-[#a30000]">Of sales done over the years!</p>
+        <div class="col-span-1 text-center">
+          <img
+            class="w-[300px] rounded-md mx-auto border-[1px] border-black"
+            src="../assets/cars/asset-l2.jpg"
+            alt=""
+          />
+          <div class="font-bold text-[34px] pt-4">Trade-Ins</div>
+          <p class="px-[70px] py-2 text-[20px] font-medium">
+            Swap your old ride for a shiny new set of wheels with ease!
+          </p>
         </div>
-        <div class="col-span-1 border-l-[2px] border-[#BB0000]">
-          <div class="font-bold text-[72px] text-[#BB0000]">5-Star</div> 
-          <p class="px-[100px] text-[18px] font-medium text-[#a30000]">Top-notch service that makes you smile every time!</p>
+        <div class="col-span-1 text-center">
+          <img
+            class="w-[300px] rounded-md mx-auto border-[1px] border-black"
+            src="../assets/cars/asset-l3.jpg"
+            alt=""
+          />
+          <div class="font-bold text-[34px] pt-4">Financing Aid</div>
+          <p class="px-[70px] py-2 text-[20px] font-medium">
+            Get easy, flexible payment plans that fit your budget and drive away happy!
+          </p>
         </div>
-       
       </div>
     </div>
   </div>
 </template>
+
+<style scoped>
+.card img {
+  background-image: url("");
+  background-position: center bottom;
+  background-size: cover;
+  overflow: hidden;
+}
+</style>
