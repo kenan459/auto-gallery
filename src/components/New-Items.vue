@@ -2,10 +2,10 @@
   <div class="bg-white w-[full]">
     <div class="mx-auto py-10 px-[60px] text-black">
       <div class="text-center">
-        <div class="font-black text-[60px] uppercase tracking-[5px]">
+        <div class="font-black text-[60px] text-[#3C3744] uppercase tracking-[5px]">
           On Sale!
         </div>
-        <div class="font-bold text-[32px] uppercase tracking-[3px]">
+        <div class="font-bold text-[32px] text-[#3C3744] uppercase tracking-[3px]">
           New Vehicles Listed for sale
         </div>
       </div>
@@ -85,7 +85,7 @@
         
         
       </div>
-      <div class="text-[24px] text-[#3C3744] text-center mx-auto font-bold uppercase">Load More</div>
+      <div class="text-[20px] text-[#3C3744] text-center mx-auto font-bold uppercase">Load More</div>
     </div>
   </div>
 </template>

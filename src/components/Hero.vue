@@ -1,11 +1,11 @@
 <template>
   <!-- Section -->
-  <div class="pt-[50px] w-full">
+  <div class="pt-[50px]">
     <!-- Container -->
     <div class="flex hero bg-cover bg-no-repeat h-[800px] text-white">
       <!-- Main Wrapper -->
-      <div class="flex w-[1400px] px-[60px] pt-[30px] w-auto gap-[150px]">
-        <div class="flex flex-col">
+      <div class="flex px-[50px] pt-[30px] gap-[50px] w-auto bg-gradient-to-r from-black/[0.8] from-0%">
+        <div class="flex flex-col basis-1/2">
           <div class="flex gap-x-3">
             <div class="border-l-[6px] h-auto border-[#BB0000]"></div>
             <div class="text-[62px] font-black tracking-[3px]">
@@ -30,9 +30,9 @@
           </div>
         </div>
 
-        <div class="basis-1/2 py-3 px-[120px]">
+        <div class="basis-[70%] py-3 px-[0px]">
           <div class="flex">
-          <h4 class="text-[42px] font-black tracking-widest leading-[50px]">
+          <h4 class="text-[48px] font-black tracking-widest leading-[55px]">
             Excellence In Service, Customer Satisfaction Guaranteed! 
             <br>
             Trustworthy Reliability And High Quality Vehicles!
@@ -40,8 +40,8 @@
           </div>
 
           <p
-            class="text-[20px] mt-[30px] py-[20px] px-[25px] bg-[#3C3744]/[0.6] text-white rounded-sm 
-            border-[1px] border-black tracking-wider text-justify"
+            class="text-[20px] mt-[20px] py-[20px] px-[30px] text-white rounded-sm font-medium
+             tracking-wider text-justify"
           >
             Weʼre a family-run dealership dedicated to bringing you closer to
             your dream car. With a passion for cars and a commitment to customer
@@ -64,5 +64,6 @@
 <style scoped>
 .hero {
   background-image: url("../assets/hero.jpg");
+  
 }
 </style>
