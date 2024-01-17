@@ -1,45 +1,77 @@
 <template>
-  <div class="bg-[#3C3744] py-[50px] text-white">
-    <div class="flex flex-col gap-[100px] w-[1800px] mx-auto px-[550px]">
+  <div class="bg-gradient-to-r from-[#DF99F0] via-purple-500 to-[#DF99F0] py-[100px] text-white">
+    <div class="flex flex-col w-[1800px] mx-auto">
       <div class="font-bold text-center text-[50px] pb-[30px]">
-        Testimonials
+        What our client say about us.
       </div>
 
-      <div class="flex flex-col gap-5">
+
+
+      <div class="flex flex-col gap-[150px] px-[550px]">
+
+        <div class="font-medium text-center text-[24px] px-[50px]">
+        Our clients send us bunch of smiles with our services and we love them
+      </div>
+
         <div
-          class="border-[1px] border-black bg-[#FAF3DD] px-10 py-5 text-center rounded-[20px]"
+          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-[#FAF3DD] p-[25px] text-justify rounded-[20px]"
         >
-          <p class="font-medium text-[24px] text-[#3C3744]">
+          <div class="flex flex-row justify-between">
+            <span class="text-[18px] font-medium text-[#DF99F0]"
+              >5/5 Rating</span
+            >
+            <div
+              class="h-[100px] w-[100px] bg-white rounded-[50px] border-black border-[1px]"
+            ></div>
+          </div>
+          <div class="font-black text-[22px] tracking-widest text-left">
+            -JESSICA M.
+          </div>
+          <p class="font-medium py-[15px] text-[18px]">
             "Best car buying experience ever! Friendly staff and no pressure. I
             found my dream car easily!"
           </p>
         </div>
-        <div class="font-black text-[24px] tracking-widest">-JESSICA M.</div>
-      </div>
 
-      <div class="flex flex-col gap-5">
         <div
-          class="border-[1px] border-black bg-[#FAF3DD] px-10 py-5 text-center rounded-[20px]"
+          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-[#FAF3DD] p-[25px] text-justify rounded-[20px]"
         >
-          <p class="font-medium text-[24px] text-[#3C3744]">
-            "Absolutely thrilled with my new car! The prices are unbeatable, and
-            the service is top-notch."
+          <div class="flex flex-row justify-between">
+            <span class="text-[18px] font-medium text-[#DF99F0]"
+              >5/5 Rating</span
+            >
+            <div
+              class="h-[100px] w-[100px] bg-white rounded-[50px] border-black border-[1px]"
+            ></div>
+          </div>
+          <div class="font-black text-[22px] tracking-widest text-left">
+            -MICHAEL T.
+          </div>
+          <p class="font-medium py-[15px] text-[18px]">
+            "Absolutely thrilled with my new car! The prices are unbeatable, and the service is top-notch."
           </p>
         </div>
-        <div class="font-black text-[24px] tracking-widest justify-end">-MICHAEL T.</div>
-      </div>
 
-      <div class="flex flex-col gap-5">
         <div
-          class="border-[1px] border-black bg-[#FAF3DD] px-10 py-5 text-center rounded-[20px]"
+          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-[#FAF3DD] p-[25px] text-justify rounded-[20px]"
         >
-          <p class="font-medium text-[24px] text-[#3C3744]">
-            "Fantastic selection and the staff really know their stuff. Made my
-            family feel like VIPs!"
+          <div class="flex flex-row justify-between">
+            <span class="text-[18px] font-medium text-[#DF99F0]"
+              >5/5 Rating</span
+            >
+            <div
+              class="h-[100px] w-[100px] bg-white rounded-[50px] border-black border-[1px]"
+            ></div>
+          </div>
+          <div class="font-black text-[22px] tracking-widest text-left">
+            -JESSICA M.
+          </div>
+          <p class="font-medium py-[15px] text-[18px]">
+            "Best car buying experience ever! Friendly staff and no pressure. I
+            found my dream car easily!"
           </p>
         </div>
-        <div class="font-black text-[24px] tracking-widest">-SAMANTHA K.</div>
-
+        
       </div>
     </div>
   </div>

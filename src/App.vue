@@ -7,6 +7,7 @@
   <Services/>
   <AboutUs/>
   <Testimonials/>
+  <Footer/>
 </template>
 
 <script setup>
@@ -17,6 +18,7 @@ import NewItems from './components/New-Items.vue'
 import Services from './components/Services.vue'
 import AboutUs from './components/AboutUs.vue'
 import Testimonials from './components/Testimonials.vue'
+import Footer from './layout/footer.vue'
 </script>
 
 <style scoped>
