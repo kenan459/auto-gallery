@@ -2,7 +2,7 @@
   <div class="bg-white w-[full]">
     <div class="mx-auto py-10 px-[60px] text-black">
       <div class="text-center">
-        <div class="font-black text-[60px] text-[#3C3744] uppercase tracking-[5px]">
+        <div class="font-black text-[60px] text-[#E85F5C] uppercase tracking-[5px]">
           On Sale!
         </div>
         <div class="font-bold text-[32px] text-[#3C3744] uppercase tracking-[3px]">

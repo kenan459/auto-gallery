@@ -1,8 +1,8 @@
 <template>
-  <div class="bg-gradient-to-r from-[#DF99F0] via-purple-500 to-[#DF99F0] py-[100px] text-white">
+  <div id="Testimonials" class="bg-gradient-to-r from-[#DF99F0] via-purple-500 to-[#DF99F0] pt-[100px] py-[300px] text-white">
     <div class="flex flex-col w-[1800px] mx-auto">
       <div class="font-bold text-center text-[50px] pb-[30px]">
-        What our client say about us.
+        What our clients say about us.
       </div>
 
 

@@ -5,7 +5,7 @@
     alt=""
   />
 
-  <div class="w-[1800px] grid grid-cols-2 mx-auto py-[100px] px-2 gap-[500px]">
+  <div id="AboutUs" class="w-[1800px] grid grid-cols-2 mx-auto py-[100px] px-2 gap-[500px]">
     <div class="p-5 text-center rounded-sm text-white z-50">
       <div
         class="p-5 font-black text-[#E85F5C] text-[48px] tracking-[3px] uppercase tracking-widest leading-[55px]"

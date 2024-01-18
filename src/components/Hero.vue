@@ -1,6 +1,6 @@
 <template>
   <!-- Section -->
-  <div class="pt-[50px]">
+  <div id="home" class="pt-[50px]">
     <!-- Container -->
     <div class="flex hero bg-cover bg-no-repeat h-[800px] text-white">
       <!-- Main Wrapper -->

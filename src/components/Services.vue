@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#3C3744]">
+  <div class="bg-[#635B71]">
     <div class="mx-auto px-[150px] py-[60px] text-white">
       <div
         class="mx-auto font-bold text-center text-[50px] pb-[30px] text-white"
@@ -14,7 +14,7 @@
             src="../assets/cars/asset-l1.jpg"
             alt=""
           />
-          <div class="font-bold text-[34px] pt-4 text-[#FAF3DD]">
+          <div class="font-bold text-[34px] pt-4 text-[#F4E6B8]">
             Car Selection
           </div>
           <p class="px-[70px] py-2 text-[20px] font-medium text-white">
@@ -27,7 +27,7 @@
             src="../assets/cars/asset-l2.jpg"
             alt=""
           />
-          <div class="font-bold text-[34px] pt-4 text-[#FAF3DD]">Trade-Ins</div>
+          <div class="font-bold text-[34px] pt-4 text-[#F4E6B8]">Trade-Ins</div>
           <p class="px-[70px] py-2 text-[20px] font-medium text-white">
             Swap your old ride for a shiny new set of wheels with ease!
           </p>
@@ -38,7 +38,7 @@
             src="../assets/cars/asset-l3.jpg"
             alt=""
           />
-          <div class="font-bold text-[34px] pt-4 text-[#FAF3DD]">
+          <div class="font-bold text-[34px] pt-4 text-[#F4E6B8]">
             Financing Aid
           </div>
           <p class="px-[70px] py-2 text-[20px] font-medium text-white">
