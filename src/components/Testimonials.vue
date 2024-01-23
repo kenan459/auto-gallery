@@ -1,20 +1,20 @@
 <template>
-  <div id="Testimonials" class="bg-gradient-to-r from-[#DF99F0] via-purple-500 to-[#DF99F0] pt-[100px] py-[300px] text-white">
-    <div class="flex flex-col w-[1800px] mx-auto">
+  <div id="Testimonials" class="bg-gradient-to-r from-[#FAF3DD] via-[#F9F3DC] to-[#FAF3DD] pt-[100px] py-[300px] text-black">
+    <div class="flex flex-col w-full mx-auto">
       <div class="font-bold text-center text-[50px] pb-[30px]">
         What our clients say about us.
       </div>
 
 
 
-      <div class="flex flex-col gap-[150px] px-[550px]">
+      <div class="flex flex-col gap-[150px] lg:px-[150px] xl:px-[350px] px-[450px] max-w-[1600px] m-auto">
 
         <div class="font-medium text-center text-[24px] px-[50px]">
         Our clients send us bunch of smiles with our services and we love them
       </div>
 
         <div
-          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-[#FAF3DD] p-[25px] text-justify rounded-[20px]"
+          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-white p-[25px] text-justify rounded-[20px]"
         >
           <div class="flex flex-row justify-between">
             <span class="text-[18px] font-medium text-[#DF99F0]"
@@ -34,7 +34,7 @@
         </div>
 
         <div
-          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-[#FAF3DD] p-[25px] text-justify rounded-[20px]"
+          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-white p-[25px] text-justify rounded-[20px]"
         >
           <div class="flex flex-row justify-between">
             <span class="text-[18px] font-medium text-[#DF99F0]"
@@ -53,7 +53,7 @@
         </div>
 
         <div
-          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-[#FAF3DD] p-[25px] text-justify rounded-[20px]"
+          class="flex flex-col  text-[#3C3744] border-[1px] border-black bg-white p-[25px] text-justify rounded-[20px]"
         >
           <div class="flex flex-row justify-between">
             <span class="text-[18px] font-medium text-[#DF99F0]"

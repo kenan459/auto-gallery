@@ -1,25 +1,29 @@
 <template>
   <div class="bg-[#333] text-white">
-    <div
-      class="absolute mx-[350px] -my-[100px] px-[100px] py-[40px] bg-[#86D6EA] overflow-visible rounded-[30px]"
-    >
-      <div class="text-center pb-[20px] font-black text-[#322D39] text-[46px]">
-        Get Latest Deals and Offers by Subscribing to our Newsletter!
-      </div>
-      <div class="flex mx-auto justify-center">
-        <input
-          type="text"
-          class="w-[350px] p-5 pr-[70px] text-black text-[22px] rounded-[50px] font-bold"
-        />
-        <button
-          class="px-[40px] -ml-[60px] bg-[#322D39] rounded-[50px] text-[18px] font-black tracking-widest"
+    <div class="relative mx-auto w-[800px] xl:w-[900px]">
+      <div
+        class="absolute -my-[100px] py-[40px] bg-[#86D6EA] overflow-visible rounded-[30px]"
+      >
+        <div
+          class="text-center px-[20px] pb-[20px] font-black text-[#322D39] lg:text-[38px] xl:text-[46px]"
         >
-          Subscribe Now
-        </button>
+          Get Latest Deals and Offers by Subscribing to our Newsletter!
+        </div>
+        <div class="flex mx-auto justify-center">
+          <input
+            type="text"
+            class="w-[350px] p-5 pr-[70px] text-black text-[22px] rounded-[50px] font-bold"
+          />
+          <button
+            class="px-[40px] -ml-[60px] bg-[#322D39] rounded-[50px] text-[18px] font-black tracking-widest"
+          >
+            Subscribe Now
+          </button>
+        </div>
       </div>
     </div>
 
-    <div class="w-[1800px] px-[70px] mx-auto pt-[300px] pb-[30px]">
+    <div class="w-full  px-[40px] xl:px-[80px] mx-auto pt-[300px] pb-[30px]">
       <div
         class="flex justify-between pb-[40px] border-b-[2px] border-[#4B4B4B]"
       >
@@ -34,20 +38,21 @@
         </div>
       </div>
       <div class="text-[#818181] pt-[30px]">
-        <div class="flex justify-between ">
-          <div class="font-bold  text-[26px]">
+        <div class="flex justify-between">
+          <div class="font-bold text-[26px]">
             @2024 The Jorj Empires co. LTD.
           </div>
-          <div class="flex gap-5 font-medium items-center ">
+          <div class="flex gap-5 font-medium items-center">
             <div class="">Facebook</div>
             <div class="">Instagram</div>
             <div class="">Youtube</div>
             <div class="">LinkedIn</div>
           </div>
         </div>
-        <div class="text-[16px] font-medium tracking-wider"> #33 St. Rockwell Bldg. Rowli Avenue California California 71260 </div>
+        <div class="lg:text-[12px] xl:text-[16px] font-medium tracking-wider">
+          #33 St. Rockwell Bldg. Rowli Avenue California California 71260
+        </div>
       </div>
-     
     </div>
   </div>
 </template>
